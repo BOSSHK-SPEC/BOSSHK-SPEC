@@ -8,7 +8,6 @@
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 - 😴 &nbsp; Make it work, make it right, make it fast. 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BOSSHK-SPEC&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
 
