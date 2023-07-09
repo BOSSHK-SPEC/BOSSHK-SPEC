@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter for Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 - 😴 &nbsp; Make it work, make it right, make it fast. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BOSSHK-SPEC&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
@@ -18,7 +18,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSHK-SPEC&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSHK-SPEC&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/BOSSHK-SPEC/github-readme-stats)
 
 
 
